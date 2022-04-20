@@ -6,7 +6,8 @@ In this execise we will be playing the role of Lead Business Intelligence Analys
 
 ### We will aim at achieveing the following FOUR KEY OBJECTIVES:
 
-#1: Connect & Transform the Raw Data \n
+#1: Connect & Transform the Raw Data
+
 #2: Build a Relational Data Model
 #3: Add Calculated Fields with DAX
 #4: Design Interactive Power BI Reports
